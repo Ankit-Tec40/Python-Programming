@@ -14,3 +14,4 @@ for i in range(1, len(arr)):
     
 print(arr)
 print(arr)
+print(arr)
