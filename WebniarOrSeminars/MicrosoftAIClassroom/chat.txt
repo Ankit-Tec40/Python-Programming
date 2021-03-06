@@ -1,0 +1,223 @@
+Hi All
+
+Welcome to the Microsoft AI Classroom Series! This session will begin at 02:00 PM India Standard Time.
+
+Session announcement - Code of Conduct Part 1
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. This includes Microsoft events and gatherings, including on digital platforms where we seek to create a respectful, friendly, fun, and inclusive experience for all participants. We expect all digital event participants to uphold the principles of this Code of Conduct, which covers the main digital event and all related activities. We do not tolerate disruptive or disrespectful behavior, messages, images, or interactions by any party participant, in any form, at any aspect of the program including business and social activities, regardless of location.
+
+Session announcement - Code of Conduct Part 2
+
+Microsoft will not tolerate harassment or discrimination based on age, ancestry, color, gender identity or expression, national origin, physical or mental disability, religion, sexual orientation, or any other characteristic protected by applicable local laws, regulations, and ordinances. We encourage everyone to assist in creating a welcoming and safe environment. Please report any concerns, harassing behavior, suspicious, or disruptive activity to Business Conduct Hotline (1-877-320-MSFT or buscond@microsoft.com). Microsoft reserves the right to refuse admittance to or remove any person from Microsoft AI Classroom Series at any time at its sole discretion.
+
+Welcome
+
+Hi everyone, welcome to this virtual session. The session has now started so please refresh your browser if you can’t see the video. Microsoft experts are on hand to answer your questions anytime. Just type them in using the Q&A window.
+
+Choose your viewing preference
+
+All widgets in this webinar are resizable. You can click on the corners and resize to your preferred window size.
+
+Announcement : Check out the additional resources!
+
+We have compiled some resources for you. Simply go to the "Resource list" widget and click to access.
+
+Sandeep Alur LinkedIn Profile
+
+https://www.linkedin.com/in/sandeepalur/
+
+Bhavesh Goswami Linkedin Profile
+
+https://www.linkedin.com/in/goswamibhavesh
+
+Anjali Srivastava LinkedIn Profile
+
+https://www.linkedin.com/in/anjali-srivastava-b22120104/
+
+Prarthit Mehta LinkedIn Profile
+
+https://www.linkedin.com/in/prarthitmehta/
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Announcement: https://ms.cloudthat.com/aiforstudents is not loading
+
+Please re-try after few minutes. There might be a bulk request at the same moment.
+
+Announcement : any questions, post session can be asked at
+
+StudentQ@microsoft.com
+
+Announcement: Session Recording
+
+After attending the session students will receive an email which will have assessment link along with link to on-demand session so students can do a revision.
+
+How we can get certificates?
+
+After completing assessment, You will get “Microsoft AI workshop | January 2021” participation certificate at Free of cost.
+
+Does everyone get the certificate after the assessment?
+
+After completing assessment, You will get “Microsoft AI workshop | January 2021” participation certificate at Free of cost Assessment link will be sent to your registered Email. The assessment link will be live between January 25 to February 13, 2021
+
+Announcement: Assessment
+
+Post the session attendance, students will receive an assessment link for knowledge check and to download the participation certificate The assessment is designed as multiple-choice questions. You have 20 minutes to answer 30 questions You must score 60% or more to pass and download your “Microsoft AI workshop | January 2021” participation certificate You will get 3 attempts to clear the assessment The assessment link will be live between January 25 to February 13, 2021
+
+When will the assessment link will be available to student's sir?
+
+After completing assessment, you will get “Microsoft AI workshop | January 2021” participation certificate at Free of cost Assessment link will be sent to your registered Email. The assessment link will be live between January 25 to February 13, 2021
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Announcement: https://ms.cloudthat.com/aiforstudents is not loading
+
+Please re-try after few minutes. There might be a bulk request at the same moment.
+
+Week of AI links:
+
+• http://aka.ms/weekofai-ondemand • http://aka.ms/weekofai2-ondemand
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Environment Setup (VS Code Jupyter Notebooks)
+
+Visit https://code.visualstudio.com/download and download VS Code as per your machine configuration and then install Python 3. Follow this link for installation https://www.python.org/downloads/ Next, open VS Code Editor and install Python, Jupyter, IntelliCode extension and restart it. Go to extension section (left side menu) and search for these extensions. Now to create a new Jupyter Notebook you need to press CTRL + Shift + P and run this command Python: Create Blank New Jupyter Notebook. Once you do this a Jupyter notebook will get created automatically.
+
+Azure Cognitive Services
+
+https://azure.microsoft.com/en-in/services/cognitive-services/#features
+
+Get started with AI Fundamentals
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction
+
+Intelligent Kiosk Sample
+
+https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk
+
+Download Intelligent Kiosk
+
+https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84
+
+Ramswaroop Mishra LinkedIn Profile
+
+https://www.linkedin.com/in/ramswaroop-mishra-05a88622/
+
+Azure ML Studio Classic Subscription.
+
+Visit https://studio.azureml.net/ and Sign In
+
+Get started with AI Fundamentals
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction
+
+Intelligent Kiosk Sample
+
+https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk
+
+Download Intelligent Kiosk
+
+https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Ramswaroop Mishra LinkedIn Profile
+
+https://www.linkedin.com/in/ramswaroop-mishra-05a88622/
+
+Sarabjot Singh LinkedIn Profile
+
+https://www.linkedin.com/in/sarabjot-singh-a130711/
+
+Do we get the recording of the session?
+
+After attending the session students will receive an email which will have assessment link along with link to on-demand session so students can do a revision.
+
+How to create bots with Azure Bot Service
+
+https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/
+
+How we can get certificates?
+
+After completing assessment, You will get “Microsoft AI workshop | January 2021” participation certificate at Free of cost.
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+QnA Maker
+
+https://www.qnamaker.ai/
+
+QnA maker
+
+https://azure.microsoft.com/en-in/services/cognitive-services/qna-maker/
+
+MOC and claim your Azure account
+
+https://ms.cloudthat.com/aiforstudents
+
+Environment Setup (VS Code Jupyter Notebooks)
+
+Visit https://code.visualstudio.com/download and download VS Code as per your machine configuration and then install Python 3. Follow this link for installation https://www.python.org/downloads/ Next, open VS Code Editor and install Python, Jupyter, IntelliCode extension and restart it. Go to extension section (left side menu) and search for these extensions. Now to create a new Jupyter Notebook you need to press CTRL + Shift + P and run this command Python: Create Blank New Jupyter Notebook. Once you do this a Jupyter notebook will get created automatically.
+
+What we have to do for the completion of assessment?
+
+The assessment link will be live between January 25 to February 13, 2021
+
+GitHub Student Developer Pack
+
+Visit https://education.github.com/pack to get started Azure lab access via GitHub Student Developer Pack
+
+Announcement: Assessment
+
+Post the session attendance, students will receive an assessment link for knowledge check and to download the participation certificate The assessment is designed as multiple-choice questions. You have 20 minutes to answer 30 questions You must score 60% or more to pass and download your “Microsoft AI workshop | January 2021” participation certificate You will get 3 attempts to clear the assessment The assessment link will be live between January 25 to February 13, 2021
+
+When will the assessment link will be available to student's sir?
+
+After completing assessment, you will get “Microsoft AI workshop | January 2021” participation certificate at Free of cost Assessment link will be sent to your registered Email. The assessment link will be live between January 25 to February 13, 2021
+
+Announcement: MOC (Study material)
+
+Please refer this link for MOC (Study material) https://ms.cloudthat.com/aiforstudents
+
+Azure ML Studio Classic Subscription.
+
+Visit https://studio.azureml.net/ and Sign In
+
+Where can we get MOC course license code?
+
+Please refer this link for MOC (Study material) and Clam Azure Account https://ms.cloudthat.com/aiforstudents
+
+QnA maker
+
+https://azure.microsoft.com/en-in/services/cognitive-services/qna-maker/
+
+GoDo's link
+
+https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk ------------ https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/1-introduction ----https://azure.microsoft.com/en-in/services/cognitive-services/ ----https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/
+
+Will we receive the email for session's recording?
+
+After attending the session students will receive an email which will have assessment link along with link to on-demand session so students can do a revision.
+
+Announcement
+
+Thank you for Attending the Webinar! Please any questions, post session can be asked at StudentQ@microsoft.com. You can close the event if you don't have any questions.
