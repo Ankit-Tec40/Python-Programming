@@ -1,0 +1,60 @@
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial 
+(master)
+$ django-admin
+
+Type 'django-admin help <subcommand>' for help on a specific subcommand.
+
+Available subcommands:
+
+[django]
+    check
+    compilemessages
+    createcachetable
+    dbshell
+    diffsettings
+    dumpdata
+    flush
+    inspectdb
+    loaddata
+    makemessages
+    makemigrations
+    migrate
+    runserver
+    sendtestemail
+    shell
+    showmigrations
+    sqlflush
+    sqlmigrate
+    sqlsequencereset
+    squashmigrations
+    startapp
+    startproject
+    test
+    testserver
+Note that only Django core commands are listed as settings are not properly configured (error: Requested setting INSTALLED_APPS, but settings are not configured. You must either define the environment variable DJANGO_SETTINGS_MODULE or call settings.configure() before accessing settings.).
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial (master)  
+$ django-admin startproject textutils
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial (master)  
+$ cd textutils
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial/textutils 
+(master)
+$ cd textutils
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial/textutils/textutils (master)
+$ python manage.py runserver
+C:\Users\Asus\AppData\Local\Programs\Python\Python39\python.exe: can't open 
+file 'E:\Python Programming\DjangoTutorial\textutils\textutils\manage.py': [Errno 2] No such file or directory
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial/textutils/textutils (master)
+$ cd /e/Python Programming/DjangoTutorial/textutils
+bash: cd: too many arguments
+
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial/textutils/textutils (master)      textutils (master)
+$ cd e
+bash: cd: e: No such file or directory
+                                                                            textutils (master)      
+Asus@LAPTOP-KP38L83K MINGW64 /e/Python Programming/DjangoTutorial/textutils/textutils (master)
+$
