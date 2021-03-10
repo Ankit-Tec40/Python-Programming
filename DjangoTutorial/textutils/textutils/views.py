@@ -12,12 +12,17 @@ def about(request):
     return HttpResponse("about Ankit")
 """
 def index(request):
+    #params={'name':'Ankit','place':'bihar'}
     #return HttpResponse("Home")
+    #return render(request,'index.html',params)
     return render(request,'index.html')
 
 
+
 def removepunc(request):
+    print(request.GET.get("text","default"))
     return HttpResponse("Remove punc")
+
 def capfirst(request):
     return HttpResponse("capitalize first")
 def newlineremove(request):
