@@ -32,9 +32,11 @@ class users:
         calcdate(openingdate)
         calcamount(amount)
 
-
+def main():
+    ob=users()
+    ob.get()
 
 # From here code starts excuting
 if __name__=="__main__":
-    ob=users()
-    ob.get()
+    main()
+
