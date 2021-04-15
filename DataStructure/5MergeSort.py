@@ -5,6 +5,7 @@ def mergesort(lst):
         Rlst=lst[mid:]
         mergesort(Llst)
         mergesort(Rlst)
+        #merging
         i=0
         j=0
         k=0
