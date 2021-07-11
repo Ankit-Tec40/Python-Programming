@@ -17,4 +17,5 @@ lst=[7,5,6,8,9,1,3,5,56,5,2,5,54,54,6]
   #  val=int(input())
   #  lst.append(val)
 print(Selectionsort(lst))
+input()
 
