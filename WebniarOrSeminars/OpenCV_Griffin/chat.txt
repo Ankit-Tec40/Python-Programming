@@ -1,0 +1,856 @@
+shalini yadav17:09
+good evening
+fine
+mansi singh17:09
+all good
+Nishant Bhagat17:09
+good
+Hardik17:09
+good
+Purnima sharma17:09
+Punjab
+Nishant Bhagat17:10
+Jammu
+anurag _17:10
+All fine from MP
+Satyam Kumar17:10
+bihar
+Bhaskar Roy17:10
+Assam
+Harsh Singh17:10
+Mumbai
+akash dash17:10
+Odisha
+Anuvartika Bharti17:10
+Bihar
+Rohit Bhat17:10
+JAMMU
+arjit biswal17:10
+odisha
+Edara Venkata sai sukhesh chowdary17:10
+Andhrapradesh
+Hardik17:10
+Bihar
+Abhishek Potekar17:10
+Mumbai
+Ashutosh17:10
+Ladakh
+swarnima17:10
+Delhi
+anurag _17:11
+U r from?
+Ayush AKA dKray17:11
+Bihar
+Ajit Roy17:11
+Lopz
+Ya
+Audible
+mansi singh17:12
+yaay
+Ajit Roy17:12
+Yes sir
+mansi singh17:13
+I know python
+I have
+Nishant Bhagat17:13
+me
+Abhishek Potekar17:13
+yes
+Hardik17:13
+just installed
+Rohit Bhat17:13
+yes
+Satyam Kumar17:13
+yes
+Ayush AKA dKray17:13
+yup
+Deepshikha Singh17:13
+yes
+Greeshma Chitrala17:13
+yes
+AAKASH KUMAR17:13
+ya
+anurag _17:16
+U should start 🙌🏻
+mansi singh17:17
+which year ?
+Ajit Roy17:17
+No problem
+Ya
+Great
+Hmm
+avinash shrma17:18
+Great!
+mansi singh17:18
+yeah
+Drishti17:18
+yes 
+Rohit Bhat17:18
+yes
+Greeshma Chitrala17:18
+yes
+Nishant Bhagat17:18
+HELL YEAH
+Ajit Roy17:18
+Lets go
+AAKASH KUMAR17:18
+lets go
+Edara Venkata sai sukhesh chowdary17:18
+ok
+Ajit Roy17:18
+Its 1 gbps here
+Express
+Edara Venkata sai sukhesh chowdary17:19
+screen is visible
+avinash shrma17:20
+Can u make this video as recorded
+Ajit Roy17:20
+No need in kali linux right
+Pre installed
+Nishant Bhagat17:21
+no...it's not preinstalled
+Hardik17:21
+yes visible
+Ajit Roy17:21
+Ya
+Dont worry about visibility
+mansi singh17:21
+can we get the ppt ?
+arjit biswal17:21
+I shared a Jam file with the meeting: https://jamboard.google.com/d/1Qjt5YhqNUzE52luHBypp6X-Lw_FZLfQxByoQIdj9WCU/edit?usp=meet_whiteboard
+I shared a Jam file with the meeting: https://jamboard.google.com/d/1lIcUTN4qmi3kawApEfLNSSYG6-YTsKK3KPXhMcH7er0/edit?usp=meet_whiteboard
+I shared a Jam file with the meeting: https://jamboard.google.com/d/1fKjZidAcuuVkSSSp2cTd0tZfevl-oWTYHrec-70rCBE/edit?usp=meet_whiteboard
+Griffin LPU17:22
+Arjit kindly stop spamming the chat box 
+Ajit Roy17:22
+Haga spam
+Lolpz
+Security alert !!!!
+Ashutosh17:23
+Record !!!!!!
+Griffin LPU17:23
+This session is being recorded 
+Ajit Roy17:26
+Start sharing screen bro
+Ayush AKA dKray17:26
+diminish
+mansi singh17:27
+no idea
+Sandeep Mahto17:28
+no idea
+mansi singh17:28
+yes audible
+Purnima sharma17:28
+no idea
+Hardik17:28
+no idea
+Devgyani Mukherjee17:28
+no
+arjit biswal17:28
+I shared a Jam file with the meeting: https://jamboard.google.com/d/1iUSklAa_M2vKUbyjilZSu5X-MpjZgI1CqVyVOPBk1vs/edit?usp=meet_whiteboard
+Nishant Bhagat17:28
+machine learn about faces by those picture
+Ashutosh17:29
+Using different filters and using/storing value of each pixel
+Ajit Roy17:30
+Php$
+avinash shrma17:32
+Yes
+Nishant Bhagat17:32
+training machine to distinguish faces, objects
+Ajit Roy17:34
+Chalo;;;;;great
+Ayush AKA dKray17:37
+hex codes color
+Ashutosh17:38
+By Value of each pixel
+Nishant Bhagat17:38
+0 to 255
+Purnima sharma17:38
+pixels
+Bhaskar Roy17:38
+intensity of the light
+Nishant Bhagat17:38
+0 represents black and 255 represents white
+Ashutosh17:40
+Himanshu
+Nishant Bhagat17:45
+yeah
+Devgyani Mukherjee17:45
+yess
+Purnima sharma17:45
+yes 
+Nishant Bhagat17:46
+It overlaps, to make a new colour
+displaying images frames by frames
+Nishant Bhagat17:47
+ 60 frames per second
+60 images per seconds
+Nishant Bhagat17:50
+high level
+Ajit Roy17:50
+Top level ve
+python  low or high loz both or what
+Nishant Bhagat17:51
+read comments also
+Rishappreet Singh Moonga17:51
+python is a high level lang.
+Sandeep Mahto17:57
+Yes
+Drishti17:57
+yes
+Harsh Singh17:57
+yes
+Ritu Rani Mohapatra17:57
+Yes
+mansi singh17:57
+yes
+Sourabh Kumar17:57
+yes absolutely
+Purnima sharma17:57
+yes
+Ajit Roy17:58
+Im ready
+Nishant Bhagat17:59
+pip install opencv-contrib-python
+Ajit Roy18:00
+System slow upgrade it
+mansi singh18:00
+yes
+Ajit Roy18:00
+Yes finished
+Nishant Bhagat18:00
+yess
+Rishappreet Singh Moonga18:00
+doing 
+Greeshma Chitrala18:00
+yes
+Aakarshit Chaurasia18:00
+ys
+Harsh Singh18:00
+yes
+Nishant Bhagat18:02
+Opened
+Rishappreet Singh Moonga18:02
+doing
+Nishant Bhagat18:02
+yess
+Hardik18:03
+done
+Aakarshit Chaurasia18:03
+done
+Bhaskar Roy18:03
+can you please show how did you open this page?
+Nishant Bhagat18:04
+http://127.0.0.1:8888/
+Hardik18:04
+jupyter-notebook
+Bhaskar Roy18:04
+found it .thank you !
+Deepshikha Singh18:05
+Done
+Greeshma Chitrala18:05
+done
+Purnima sharma18:05
+done
+Himanshu Mishra18:05
+Done !
+Nishant Bhagat18:05
+yeah done
+Hardik18:05
+yeah done
+anurag _18:05
+Done
+shalini yadav18:06
+ can you repeat once how to open jupter
+Hardik18:07
+you can open it from start menu as well
+Ajit Roy18:07
+curl -LO https://its-pointless.github.io/setup-pointless-repo.sh bash setup-pointless-repo.sh
+Nishant Bhagat18:08
+in windows 10 search notebook
+it will show
+Ayush AKA dKray18:09
+for those with notepad?
+Rishappreet Singh Moonga18:09
+yes
+Deepshikha Singh18:09
+yes
+Greeshma Chitrala18:09
+yes
+Sourabh Kumar18:09
+yes
+shalini yadav18:09
+yes
+Sravan kumar Pentakota18:10
+yes
+Ajit Roy18:10
+python --version
+
+pip install opencv-python
+Nishant Bhagat18:11
+in cmd: jupyter notebook
+mansi singh18:11
+shows error in import cv2
+Hardik18:11
+done
+Purnima sharma18:11
+yes
+Nishant Bhagat18:11
+yes done
+shalini yadav18:11
+-------------------------------------------------------------------
+ModuleNotFoundError               Traceback (most recent call last)
+<ipython-input-2-fe08d9587867> in <module>
+----> 1 import  cv2
+
+ModuleNotFoundError: No module named 'cv2'
+getting this error
+Rohit Bhat18:12
+error
+G bharath18:12
+Pip not recognised
+Rishappreet Singh Moonga18:12
+same error i
+mansi singh18:12
+done
+Hardik18:12
+done
+Nishant Bhagat18:12
+done
+avinash shrma18:13
+Ya
+Sourabh Kumar18:13
+yes
+Himanshu Mishra18:13
+yes!
+Sriniketh J18:13
+done!!
+Ajit Roy18:13
+don
+Nishant Bhagat18:13
+just use google colab
+mansi singh18:15
+yes
+Sriniketh J18:15
+yup
+Rohit Bhat18:15
+no
+akash dash18:15
+yes
+Nishant Bhagat18:15
+yes done
+Ritu Rani Mohapatra18:15
+Done
+Bhaskar Roy18:15
+can you please repeat the process again 
+i am still getting error
+Sriniketh J18:16
+!pip install opencv-python
+use this code in the same notebook
+Deepshikha Singh18:16
+i'm getting error again after installing opencv
+Ajit Roy18:16
+Konsa error
+Deepshikha Singh18:16
+okay
+Nishant Bhagat18:17
+or use google colab
+Ajit Roy18:17
+Youtube dekhiye saab samjiye
+Commands;
+mansi singh18:17
+done
+Ritu Rani Mohapatra18:17
+Done
+Greeshma Chitrala18:17
+done
+Sriniketh J18:17
+donee
+Hardik18:17
+done
+akash dash18:17
+done
+Ajit Roy18:17
+Dune
+Sourabh Kumar18:17
+done
+Nishant Bhagat18:20
+Grayscale
+mansi singh18:21
+yes
+Nishant Bhagat18:22
+add cv2.destroyAllWindows() after waitKey
+Harsh Singh18:22
+it worked for me
+Nishant Bhagat18:23
+add cv2.destroyAllWindows() after waitKey
+Ajit Roy18:23
+No
+Working great
+Its ok bro
+Jugaad kijiye
+mansi singh18:24
+for me its not responding
+Sriniketh J18:24
+yes
+Aakarshit Chaurasia18:24
+ys sr
+Harsh Singh18:24
+yes
+Bhaskar Roy18:24
+i am writing in notepad currently
+mansi singh18:24
+for me its not responding
+Ajit Roy18:24
+Use termux
+Harsh Singh18:24
+yes it is showing a black and white photo
+Ajit Roy18:25
+U can use mobile phone also install termux
+mansi singh18:25
+not for me
+Nishant Bhagat18:25
+just add cv2.destroyAllWindows() after waitKey
+Ajit Roy18:26
+And check the code as well ..if space or ...somethig it wont work
+Nishant Bhagat18:26
+add cv2.destroyAllWindows() after waitKey , it worked for me
+import cv2
+import numpy as np
+img = cv2.imread('monalisa.png', 0)
+cv2.imshow("Mona",img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+Aman India18:28
+
+img=cv2.imread("monalisa.png",0)
+
+cv2.imshow("Mona",img)
+key=cv2.waitKey(1)
+if key==81 or key==113:
+    break;
+Nishant Bhagat18:28
+import cv2
+import numpy as np
+img = cv2.imread('monalisa.png', 0)
+cv2.imshow("Mona",img)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+Ajit Roy18:30
+Monalisa felt bad
+Se iz frm
+mansi singh18:31
+AttributeError                            Traceback (most recent call last)
+<ipython-input-1-c7f36aa1a9d8> in <module>
+      2 img = cv2.imread("doggy.jpg",0)
+      3 cv2.imshow("Dog",img)
+----> 4 cv2.waitkey(0)
+
+AttributeError: module 'cv2.cv2' has no attribute 'waitkey'
+Nishant Bhagat18:31
+yeah we can see
+Himanshu Mishra18:31
+yes
+mansi singh18:32
+for me it shows their no waitkey
+Nishant Bhagat18:32
+its waitKey
+not waitkey
+Aman India18:32
+import cv2
+img=cv2.imread("Mona.jpeg",0)
+cv2.imshow("Mona",img)
+cv2.waitKey(0)
+Nishant Bhagat18:32
+it works
+Harsh Singh18:34
+done
+Nishant Bhagat18:35
+works
+donee
+Ayush AKA dKray18:36
+done
+akash dash18:36
+ya lets continue
+mansi singh18:36
+yes
+Himanshu Mishra18:36
+Done
+Aman India18:36
+waitKey()
+Sriniketh J18:36
+done
+Shrey Gupta18:36
+done
+avinash shrma18:36
+Yes
+mansi singh18:37
+once show imwrite()
+Nishant Bhagat18:38
+cv2.imwrite("Mona.png", img)
+Nishant Bhagat18:40
+yess
+Nishant Bhagat18:42
+yess
+akash dash18:42
+yes
+Harsh Singh18:42
+yes
+shalini yadav18:51
+yes
+Ajit Roy18:51
+Drink water bro yes sir
+Shrey Gupta18:51
+yes
+Nishant Bhagat18:51
+no we are understanding
+Himanshu Mishra18:51
+Yes!
+shalini yadav18:52
+once code on notepad
+mansi singh18:54
+it shows me black circle instead of green
+shalini yadav18:54
+ok
+Ajit Roy18:55
+Yep
+shalini yadav18:55
+ya got 
+Ajit Roy18:56
+Lets go
+Sourabh Kumar18:56
+yes
+mansi singh18:56
+yeah
+Satyam Kumar18:56
+yes
+Nishant Bhagat18:56
+yes
+Purnima sharma18:57
+yes
+Ajit Roy19:00
+Yes
+Nishant Bhagat19:00
+yess
+Ajit Roy19:00
+Yaa
+Sourabh Kumar19:00
+yes absolutely
+Ajit Roy19:00
+Ya
+akash dash19:00
+yea
+Edara Venkata sai sukhesh chowdary19:05
+ok
+mansi singh19:05
+cleaar
+shalini yadav19:05
+it showing error in show attr
+Harsh Singh19:06
+not working for me
+Aman India19:06
+cv2.waitKey(0)
+Purnima sharma19:06
+yes
+Ajit Roy19:06
+First allow tio message
+Only admins can send msg
+On whatsapp
+Aman India19:06
+import cv2
+from random import randrange
+img=cv2.imread("Mona.jpeg",1)
+
+worked=cv2.Canny(img,100,200)
+cv2.imshow("Mona",worked)
+cv2.waitKey(0)
+shalini yadav19:07
+error                                     Traceback (most recent call last)
+<ipython-input-4-6d9fb8d29f55> in <module>
+      4 
+      5 worked=cv2.Canny(img,100,200)
+----> 6 cv2.imshow("Mona",worked)
+      7 cv2.waitKey(0)
+
+error: OpenCV(4.5.3) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-q3d_8t8e\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Shrey Gupta19:07
+yes same error
+shalini yadav19:08
+import cv2
+from random import randrange
+img=cv2.imread("monalisha.jpeg",1)
+
+worked=cv2.Canny(img,100,200)
+cv2.imshow("Mona",worked)
+cv2.waitKey(0)
+same as your code
+shalini yadav19:09
+yes working but not showing img
+Purnima sharma19:10
+yes it is working...
+shalini yadav19:15
+cv2.imshow("mona",img)  after writing this  getting python is not responding  
+yes
+Ashutosh19:15
+Restart the kernel
+Nishant Bhagat19:16
+dont just use wait key, use cv2.waitKey(0)
+cv2.destroyAllWindows()
+Aman India19:17
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+https://github.com/opencv/opencv/edit/master/data/haarcascades/haarcascade_frontalface_default.xml
+Sriniketh J19:19
+Once again please
+Nishant Bhagat19:19
+done
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+akash dash19:20
+done
+Sourabh Kumar19:20
+yes done
+Purnima sharma19:20
+done
+Harsh Singh19:20
+done
+Himanshu Mishra19:21
+Done!
+Sriniketh J19:21
+done!!
+mansi singh19:21
+how to make xml ?
+akash dash19:21
+yes
+mansi singh19:21
+yes done
+mansi singh19:23
+can you share the code
+yeah liked it
+Purnima sharma19:23
+yes
+Nishant Bhagat19:23
+yes
+akash dash19:23
+great
+Sourabh Kumar19:24
+yes, it was amazing
+Ajit Roy19:24
+Python advance projects
+
+
+Nice
+anurag _19:24
+👏🏾
+shalini yadav19:24
+it is very interesting   but it showing  error for me 
+Sriniketh J19:26
+ig need to add bracket
+Ajit Roy19:26
+Photo islike jeff
+Purnima sharma19:27
+ya we can wait for it.
+mansi singh19:31
+paste the threshold code
+Sriniketh J19:34
+♾
+mansi singh19:34
+for array
+Sriniketh J19:34
+infinite
+Nishant Bhagat19:34
+to make program running
+mansi singh19:35
+or pixel
+Nishant Bhagat19:35
+yeah
+Hardik19:35
+because video is frames per second , so using while loop to capture each one
+Nishant Bhagat19:36
+to capture each frame
+mansi singh19:37
+AttributeError                            Traceback (most recent call last)
+<ipython-input-58-61d6b699a028> in <module>
+      6 
+      7 while True:
+----> 8     temp,frame=webcam.Read()
+      9 
+     10     coordinates = trained_face_data.detectMultiScale(frame)
+
+AttributeError: 'cv2.VideoCapture' object has no attribute 'Read'
+it shows me error
+screen is not shared
+shalini yadav19:38
+yes
+Ajit Roy19:38
+Ya its on
+Nishant Bhagat19:39
+what is this function multiscale?
+mansi singh19:39
+the webcam part shows me error
+AttributeError                            Traceback (most recent call last)
+<ipython-input-58-61d6b699a028> in <module>
+      6 
+      7 while True:
+----> 8     temp,frame=webcam.Read()
+      9 
+     10     coordinates = trained_face_data.detectMultiScale(frame)
+
+AttributeError: 'cv2.VideoCapture' object has no attribute 'Read'
+Nishant Bhagat19:41
+yeah 
+mansi singh19:41
+okay
+Purnima sharma19:41
+okay
+Nishant Bhagat19:41
+mansi, its read not Read
+mansi singh19:45
+yeah
+mansi singh19:47
+for me the video is not working properly
+Harsh Singh19:47
+i got error
+SystemError                               Traceback (most recent call last)
+<ipython-input-37-9ab7b3969b6e> in <module>
+      2 import cv2
+      3 webcam = cv2.VideoCapture(0)#taking camera
+----> 4 trained_data = cv2.CascadeClassifier('face.xml') #its a trained data
+      5 
+      6 while true:
+
+SystemError: <class 'cv2.CascadeClassifier'> returned a result with an error set
+Sriniketh J19:48
+i too get the same error😞
+Aman India19:48
+import cv2
+from random import randrange 
+trained_face_data= cv2.CascadeClassifier('face.xml')
+
+webcam=cv2.VideoCapture(0)
+
+while True:
+    s_F_R,frame=webcam.read()
+
+    cordinates=trained_face_data.detectMultiScale(frame)
+    for(x,y,w,h) in cordinates:
+        cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,254),3)
+        
+    cv2.imshow('Face detector',frame)
+    key=cv2.waitKey(1)
+
+    if key==81 or key==113:
+        break;
+Harsh Singh19:48
+no still error
+Sriniketh J19:48
+still it shows error
+Harsh Singh19:49
+SystemError                               Traceback (most recent call last)
+<ipython-input-39-deebc23108b8> in <module>
+      1 import cv2
+      2 from random import randrange
+----> 3 trained_face_data= cv2.CascadeClassifier('face.xml')
+      4 
+      5 webcam=cv2.VideoCapture(0)
+
+SystemError: <class 'cv2.CascadeClassifier'> returned a result with an error set
+yes
+same name
+mansi singh19:49
+Its not showing me proper result
+but working
+Aakarshit Chaurasia19:49
+no
+Sriniketh J19:50
+can you send the face.xml file
+shalini yadav19:50
+for me also not workking
+akash dash19:50
+error at CascadeClassifier()
+Aman India19:51
+https://drive.google.com/file/d/1tEFalfeg87bxcsXB-cY_MdJzGb2zMpLi/view?usp=sharing
+Hardik19:51
+done
+akash dash19:52
+ya its working for mw
+Nishant Bhagat19:53
+not responding
+Aakarshit Chaurasia19:53
+ys now working
+for me
+mansi singh19:53
+my webcam isn't stopping
+Harsh Singh19:54
+it's not stopping
+shalini yadav19:54
+rror                                     Traceback (most recent call last)
+<ipython-input-1-deebc23108b8> in <module>
+      8     s_F_R,frame=webcam.read()
+      9 
+---> 10     cordinates=trained_face_data.detectMultiScale(frame)
+     11     for(x,y,w,h) in cordinates:
+     12         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,254),3)
+
+error: OpenCV(4.5.3) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-q3d_8t8e\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion fail
+rror                                     Traceback (most recent call last)
+<ipython-input-1-deebc23108b8> in <module>
+      8     s_F_R,frame=webcam.read()
+      9 
+---> 10     cordinates=trained_face_data.detectMultiScale(frame)
+     11     for(x,y,w,h) in cordinates:
+     12         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,254),3)
+
+error: OpenCV(4.5.3) C:\Users\runneradmin\AppData\Local\Temp\pip-req-build-q3d_8t8e\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion fail
+Hardik19:54
+pressing    q   makes it Not Responding
+akash dash19:54
+if key==81 or key==113:
+        break; why are we using this if stmt
+Nishant Bhagat19:54
+it works :)
+Omprakash Mishra19:54
+Ya
+shalini yadav19:54
+webcam is working
+Sriniketh J19:55
+Got it. Great😍😍
+mansi singh19:55
+Great, loved it
+AAKASH KUMAR19:55
+Great 😊😊😊
+Sriniketh J19:55
+Cool!!😎😎
+Nishant Bhagat19:56
+Best Tutorial Ever :)... We learned alot
+shalini yadav19:56
+it is cool but getting too much error
+Aakarshit Chaurasia19:56
+Cool,loved it
+Edara Venkata sai sukhesh chowdary19:56
+feedback form?
+Omprakash Mishra19:56
+Yes sir great opportunity for learning
+mansi singh19:56
+even after closing anaconda, project is still working
+Harsh Singh19:56
+I have restarted the kernal but still the webcame is not stopping 
+Edara Venkata sai sukhesh chowdary19:56
+yes sir
+mansi singh19:56
+😂
+Omprakash Mishra19:56
+Thank you sir !
+mansi singh19:56
+yes @harsh
+Drishti19:57
+https://tinyurl.com/opencvgriffinfeedback
+anurag _19:57
+Thank you both
+mansi singh19:57
+even after closing anaconda, project is still working
+😂
+Drishti19:57
+https://www.instagram.com/griffin.lpu/
+mansi singh19:57
+that's amazing thing I got to know
+amw-wuhp-aqe
